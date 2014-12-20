@@ -2,9 +2,9 @@
 Contributors: mukto90
 Donate link: http://mukto.medhabi.com/
 Tags: comment, comment editor, comment wysiwsg, media uploader, media comment, comment photo upload, mdc
-Version: 1.0.0
+Version: 1.1
 Requires at least: 3.0.1
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

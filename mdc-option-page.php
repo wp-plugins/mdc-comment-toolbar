@@ -1,6 +1,6 @@
 <?php 
 function mdc_option_page(){
-	add_menu_page('MDC Comment Toolbar', 'Comment Toolbar', 'administrator', 'mdc-comment-toolbar', 'mdc_comment_toolbar_option_page', plugins_url( 'images/icon.png' , __FILE__ ), 61);
+	add_menu_page('MDC Comment Toolbar', 'Comment Toolbar', 'administrator', 'mdc-comment-toolbar', 'mdc_comment_toolbar_option_page', plugins_url( 'images/icon.png' , __FILE__ ), 61.54);
 }
 add_action('admin_menu', 'mdc_option_page');
 function mdc_comment_toolbar_option_page(){

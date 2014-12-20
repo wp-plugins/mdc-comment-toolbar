@@ -5,7 +5,7 @@ Description:	MDC Comment Toolbar enables rich editor toolbar with media uploader
 Plugin URI:		http://wordpress.org/plugins/mdc-comment-toolbar
 Author:			Nazmul Ahsan
 Author URI:		http://mukto.medhabi.com
-Version:		1.0.0
+Version:		1.1
 */
 
 include "mdc-option-page.php";
