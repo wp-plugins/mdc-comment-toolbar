@@ -1,5 +1,5 @@
 === MDC Comment Toolbar ===
-Contributors: mukto90
+Contributors: mukto90, medhabidotcom
 Donate link: http://mukto.medhabi.com/
 Tags: comment, comment editor, comment wysiwsg, media uploader, media comment, comment photo upload, mdc
 Version: 1.0.0
